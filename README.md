@@ -1,4 +1,4 @@
-faq_ci
+nitash_faq_ci
 ======
 
 Basic  faq like Q&A application developed using php and Codeigniter.
@@ -24,4 +24,4 @@ User can
 
  
 
-This is not yet a completed version, so dont expect more features in it.
+This is not yet a completed version, Have to implement more features in feature.
