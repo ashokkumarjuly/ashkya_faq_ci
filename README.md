@@ -23,8 +23,8 @@ User can
 3) View the list of question and answers posted by him
 
 General
-1)login user can post a question or answer.
-2) pagination included.
+1) Only logged in user can post a question or answer.
+2) Pagination included.
  
 
 This is a minimal version not yet a completed version, have to implement more features in future.
