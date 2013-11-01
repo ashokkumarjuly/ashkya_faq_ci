@@ -23,7 +23,8 @@ User can
 3) View the list of question and answers posted by him
 
 General
-1) Only logged in user can post a question or answer.
+
+1) Only logged in user can post a question or answer.<br/>
 2) Pagination included.
  
 
