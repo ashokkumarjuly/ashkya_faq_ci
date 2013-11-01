@@ -1,7 +1,7 @@
 nitash_faq_ci
 ======
 
-Basic  faq like Q&A application developed using php and Codeigniter.
+Basic and simple faq like Q&A application developed using php and Codeigniter.
 
 FAQ system using Codeigniter:
 
@@ -22,6 +22,9 @@ User can
 2) Post an answer to question others posted.<br/>
 3) View the list of question and answers posted by him
 
+General
+1)login user can post a question or answer.
+2) pagination included.
  
 
-This is not yet a completed version, have to implement more features in future.
+This is a minimal version not yet a completed version, have to implement more features in future.
