@@ -1,7 +1,7 @@
 faq_ci
 ======
 
-Basic  faq like Q &amp; A application developed using php and Codeigniter.
+Basic  faq like Q&A application developed using php and Codeigniter.
 
 FAQ system using Codeigniter:
 
@@ -11,14 +11,14 @@ Features Included, below are some,
 
 Admin can Manage 
 
-1) Users
-2) Question categories
-3) User posted questions and answers
+1) Users<br/>
+2) Question categories<br/>
+3) User posted questions and answers<br/>
 4) Users
 
-User can
-1) Ask a question
-2) post an answer to question others posted.
+User can<br/>
+1) Ask a question<br/>
+2) post an answer to question others posted.<br/>
 3) view the list of question and answers posted by him
 
  
