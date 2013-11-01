@@ -24,4 +24,4 @@ User can
 
  
 
-This is not yet a completed version, Have to implement more features in future.
+This is not yet a completed version, have to implement more features in future.
