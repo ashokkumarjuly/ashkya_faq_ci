@@ -16,10 +16,11 @@ Admin can Manage
 3) User posted questions and answers<br/>
 4) Users
 
-User can<br/>
+User can
+
 1) Ask a question<br/>
-2) post an answer to question others posted.<br/>
-3) view the list of question and answers posted by him
+2) Post an answer to question others posted.<br/>
+3) View the list of question and answers posted by him
 
  
 
