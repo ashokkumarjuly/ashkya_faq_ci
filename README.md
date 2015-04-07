@@ -1,4 +1,4 @@
-nitash_faq_ci
+ashkya_faq_ci
 ======
 
 Basic and simple faq like Q&A application developed using php and Codeigniter.
